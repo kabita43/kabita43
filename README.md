@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kabita43</h1>
 <h3 align="center">A passionate full stack developer from pokhara</h3>
-<img align ="right"alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fgifs%2Funicorn-horse-walk-cycle-loop-16249%2F&psig=AOvVaw1GNZjUTbHEf3IThj3ugF4r&ust=1743159251575000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDepbKMqowDFQAAAAAdAAAAABAE">
+<img align ="right"alt="coding" width="400" src="https://cdn.pixabay.com/animation/2024/12/02/02/56/02-56-03-27_512.gif">
 
 - 💬 Ask me about **Django ,Angular**
 
