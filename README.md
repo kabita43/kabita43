@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm kabita43</h1>
-<h3 align="center">A passionate full stack developer from pokhara</h3>
+<h3 align="center">A passionate full stack developer</h3>
+
+<h4 align="center">"The future belongs to those who code it"</h4>
+
 <img align ="right"alt="coding" width="400" src="https://cdn.pixabay.com/animation/2024/12/02/02/56/02-56-03-27_512.gif">
 
 - 💬 Ask me about **Django ,Angular**
